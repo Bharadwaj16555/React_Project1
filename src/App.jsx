@@ -8,10 +8,10 @@ function App() {
 
   return (
     <>
-    <center>
+  
       <h1>"Hello World Vite App"</h1>
       <h2>"This is a simple Vite + React application."</h2>
-      </center>
+
     </>
   )
 }
